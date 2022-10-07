@@ -4,6 +4,6 @@
 # data.close()
 # exit()#остановка кода
 
-with open ('file2a.txt', 'w') as data: # w - переписывает данные
-    data.write('line1\n')
-    data.write('line2\n')
+# with open ('file2a.txt', 'w') as data: # w - переписывает данные
+#     data.write('line1\n')
+#     data.write('line2\n')
